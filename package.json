@@ -1,0 +1,23 @@
+{
+  "name": "llmchat",
+  "version": "1.0.0",
+  "description": "LLMChat module for Node.js",
+  "keywords": [
+    "llmchat"
+  ],
+  "homepage": "https://github.com/mdrehan4all/llm_chat#readme",
+  "bugs": {
+    "url": "https://github.com/mdrehan4all/llm_chat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrehan4all/llm_chat.git"
+  },
+  "license": "MIT",
+  "author": "Md Rehan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
