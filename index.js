@@ -1,6 +1,10 @@
 class LLMChat {
     constructor () {
-        console.log("Hello from LLMChat")
+        console.log("LLMChat")
+    }
+
+    generate(text, model, apikey){
+        return "generated test response";
     }
 }
 
