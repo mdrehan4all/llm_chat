@@ -1,6 +1,6 @@
 {
   "name": "llmchat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LLMChat module for Node.js",
   "keywords": [
     "llmchat"
